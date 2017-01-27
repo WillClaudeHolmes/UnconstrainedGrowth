@@ -3,10 +3,11 @@ Unconstrained Growth
 
 This learning module accompanies chapter two of Angela B. and George W Shiflet's
 book [Introduction to Computational Science](https://ics.wofford-ecs.org/).
-Here, we introduce and develop our ability to: - Define and use functions in
-Python. - Use Jupyter Notebooks to develop and document problem solving process
-and solution. - Use Matplotlib to generate good plots. - Analyze simulation
-error.
+Here, we introduce and develop our ability to:
+- Define and use functions in Python.
+- Use Jupyter Notebooks to develop and document problem solving process and solution.
+- Use Matplotlib to generate good plots.
+- Analyze simulation error.
 
 The assignment below will help you as you develop these abilities. Try and
 complete the assignment on your own or with guided help from a classmate and/or
